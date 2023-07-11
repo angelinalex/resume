@@ -1,0 +1,62 @@
+
+
+.text-wrapper{
+    background-color:#C1C1C1;
+    margin: 0px;
+    overflow:auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    
+ 
+}
+.university-name {
+    font-weight: bold;
+  }
+  
+
+.box-wrap{
+    color: white;
+    width: 50%;
+    margin: 10px auto; /* Auto margins for left/right to center block */
+    padding: 20px;
+ 
+}
+
+.courses-list {
+    list-style-type: square; /* changes bullets to squares */
+    padding: 0; 
+  }
+  
+
+  
+.university-section {
+
+    display: flex;
+    align-items: center;
+    
+  }
+  
+.university-logo {
+    width: 50px; /* adjust as needed */
+    height: 50px; /* adjust as needed */
+    margin-right: 10px; /* adjust as needed */
+  }
+  
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap; /* If the container width is not enough, it will break the line */
+    gap: 10px; /* Gap between the skill boxes */
+  }
+  
+  .skill-box {
+    border: 2px solid rgb(255, 255, 255); /* Customize your border as you want */
+    padding: 7px; /* Inner spacing */
+    margin: 1px; /* Outer spacing */
+    border-radius: 10px; /* This will make the corners rounded */
+   /* This will make the inside of the border white */
+    color:white;
+    font-weight: bold;
+ 
+    font-size:12px;
+  }
+  
