@@ -24,7 +24,7 @@
   
 }
 
-.fake_code{
+.fake_code {
     border-top: 10px solid rgb(255, 254, 254);
     border-bottom: 2px solid rgb(255, 254, 254);
     border-left: 2px solid rgb(255, 254, 254);
@@ -32,13 +32,15 @@
     background-color:#343344;
     color: white;
     width: 50%;
+    min-width: 300px; /* Adjust according to your needs */
     margin: 40px auto; /* Auto margins for left/right to center block */
     padding: 20px;
     display: flex;
     align-items: left; /* Aligns items vertically in the center */
     justify-content: left; /* Aligns items horizontally in the center */
-    
+    word-wrap: break-word; /* add this line */
 }
+
 
 a {
     text-decoration: none;

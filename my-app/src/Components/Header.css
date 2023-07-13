@@ -2,6 +2,7 @@
     display: flex;
     justify-content: center;
     background-color: #575E7D;
+    padding: 15px;
   }
   
   .image {
