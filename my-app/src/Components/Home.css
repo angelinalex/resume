@@ -23,7 +23,6 @@
     margin: 0px;
   
 }
-
 .fake_code {
     border-top: 10px solid rgb(255, 254, 254);
     border-bottom: 2px solid rgb(255, 254, 254);
@@ -40,7 +39,6 @@
     justify-content: left; /* Aligns items horizontally in the center */
     word-wrap: break-word; /* add this line */
 }
-
 
 a {
     text-decoration: none;
