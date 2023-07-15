@@ -3,7 +3,7 @@ import './Home.css';
 
 const Home = () => {
     const [text, setText] = useState("");
-    const fullText = "Hello! I'm Angelina. Developer and Musician. ";
+    const fullText = "Hello! I'm Angelina. ";
 
     useEffect(() => {
         const timer = setInterval(() => {
