@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.c105ec4c.css",
-    "main.js": "/resume/static/js/main.7e6da734.js",
+    "main.css": "/resume/static/css/main.a71e0749.css",
+    "main.js": "/resume/static/js/main.b0efa519.js",
     "static/js/787.016dd43c.chunk.js": "/resume/static/js/787.016dd43c.chunk.js",
     "static/media/ headerimg.png": "/resume/static/media/ headerimg.e260b1132cecc859afe1.png",
+    "static/media/astrology.png": "/resume/static/media/astrology.415eccc7ba0668f0926e.png",
     "static/media/rutgers.jpg": "/resume/static/media/rutgers.ee3f4692163e0c1ac0c4.jpg",
     "index.html": "/resume/index.html",
-    "main.c105ec4c.css.map": "/resume/static/css/main.c105ec4c.css.map",
-    "main.7e6da734.js.map": "/resume/static/js/main.7e6da734.js.map",
+    "main.a71e0749.css.map": "/resume/static/css/main.a71e0749.css.map",
+    "main.b0efa519.js.map": "/resume/static/js/main.b0efa519.js.map",
     "787.016dd43c.chunk.js.map": "/resume/static/js/787.016dd43c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c105ec4c.css",
-    "static/js/main.7e6da734.js"
+    "static/css/main.a71e0749.css",
+    "static/js/main.b0efa519.js"
   ]
 }
